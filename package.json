@@ -1,0 +1,8 @@
+{
+  "name": "discorddraw",
+  "version": "1.0.0",
+  "dependencies": {
+    "powercord": "^1.0.0"
+    
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "discorddraw",
+  "version": "1.0.0",
+  "description": "This will allow you to draw within Discord, to send immediately.",
+  "author": "Taaxic#0344",
+  "license": "Unlicensed",
+  "nsfw": false,
+  "permissions": "ext_api"
+}

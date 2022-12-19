@@ -1,0 +1,5 @@
+{
+  "name": "discorddraw",
+  "main": "./my-plugin.js",
+  "version": "1.0.0"
+}
